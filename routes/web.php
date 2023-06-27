@@ -61,3 +61,22 @@ Route::get("/gallery/ant", function () {
     return view("test/ant", compact("ant"));
 });
 
+Route::get("/gallery/bird", function () {
+    $bird = "https://images.indianexpress.com/2021/03/falcon-anthony-mackie-1200.jpg";
+    return view("test/bird", compact("bird"));
+});
+
+Route::get("/gallery/cat", function () {
+    $cat = "http://www.onyxtruth.com/wp-content/uploads/2017/06/black-panther-movie-onyx-truth.jpg";
+    return view("test/cat", compact("cat"));
+});
+
+Route::get("/gallery/god", function () {
+    $cat = "https://www.blackoutx.com/wp-content/uploads/2021/04/Thor.jpg";
+    return view("test/cat", compact("cat"));
+});
+
+Route::get("/gallery/spider", function () {
+    $cat = "https://icdn5.digitaltrends.com/image/spiderman-far-from-home-poster-2-720x720.jpg";
+    return view("test/cat", compact("cat"));
+});

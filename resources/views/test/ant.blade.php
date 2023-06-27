@@ -4,11 +4,8 @@
 <body>
 
     <h2>Phaninthorn Nongtakrai</h2>
-    <a href="gallery/ant" >
-    <img src=" {{ $ant }} "Trulli width="500" height="250">
-    </a>
+    ant<img src=" {{ $ant }} "Trulli width="500" height="250">
     
-
 </body>
 
 </html>
