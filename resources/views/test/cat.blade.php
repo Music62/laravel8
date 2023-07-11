@@ -1,4 +1,4 @@
-<!-- View stored in resources/views/gallery/cat.blade.php -->
+<!-- View stored in resources/views/newgallery/cat.blade.php -->
 <html>
 
 <body>

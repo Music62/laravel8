@@ -1,4 +1,4 @@
-<!-- View stored in resources/views/gallery/bird.blade.php -->
+<!-- View stored in resources/views/newgallery/bird.blade.php -->
 <html>
 
 <body>
